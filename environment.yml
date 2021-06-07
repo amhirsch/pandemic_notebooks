@@ -1,0 +1,10 @@
+name: covid
+dependencies:
+  - jupyterlab
+  - ipywidgets
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - plotly
+  - geopandas
